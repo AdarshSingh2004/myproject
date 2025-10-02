@@ -1,3 +1,4 @@
 # Zerodha
-Building Zerodha Clone using MERN STACk.
+Building Zerodha Clone using MERN Stack.
+
 
